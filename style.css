@@ -2,7 +2,7 @@ body {
   background:  linear-gradient(90deg, blue, purple);
 }
 .header{
-     width: 400px;
+     width: 380px;
     position:relative;
     left:550px;
 }
